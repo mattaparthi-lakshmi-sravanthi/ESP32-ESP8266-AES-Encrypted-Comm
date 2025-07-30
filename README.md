@@ -49,7 +49,7 @@ ESP32-ESP8266-AES-Encrypted-Comm/
 uint8_t key[16] = { '1','2','3','4','5','6','7','8','9','0','1','2','3','4','5','6' };
 ⚙️ Setup Instructions
 ✅ 1. Clone the Repo
-git clone https://github.com/yourusername/ESP32-ESP8266-AES-Encrypted-Comm.git
+git clone 
 cd ESP32-ESP8266-AES-Encrypted-Comm
 ✅ 2. Open with PlatformIO in VS Code
 ✅ 3. Update Wi-Fi Credentials
